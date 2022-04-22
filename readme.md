@@ -7,3 +7,4 @@ an example app
 # Tech stack
 * Rust
 * javascript
+* python
